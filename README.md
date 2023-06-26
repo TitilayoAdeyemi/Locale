@@ -1,1 +1,2 @@
 # Locale
+Locale is a project that provides geographical information about regions, states, and LGAs in Nigeria. It allows users to access and retrieve information such as regions, states within a specific region, and LGAs within a particular state. The project utilizes a MongoDB database to store the geographical data and implements Flask routes to handle user requests and provide the requested information. Additionally, the project incorporates user authentication and authorization using JWT tokens for secure access to the data.
